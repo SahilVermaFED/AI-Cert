@@ -1,0 +1,10 @@
+export { default as aiCertLogo } from './icons/ai-cert-logo.svg';
+export { default as heroSectionBackground } from './heroSection/hero-section-background.png';
+export { default as heroSectionImage } from './heroSection/hero-section-image.png';
+export { default as companyImage1 } from './partnerSection/company-1.png';
+export { default as companyImage2 } from './partnerSection/company-2.png';
+export { default as companyImage3 } from './partnerSection/company-3.png';
+export { default as companyImage4 } from './partnerSection/company-4.png';
+export { default as arrow } from './icons/arrow.svg';
+export { default as goldenTick } from './icons/golden-tick.svg';
+export { default as goldenBag } from './icons/golden-bag.svg';
